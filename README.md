@@ -1,12 +1,47 @@
-#OASIS INFOBYTE Web Development Internship Tasks
-Welcome to my repository showcasing the web development tasks completed during my internship at OASIS INFOBYTE. Explore a collection of projects demonstrating my skills in front-end and back-end development.
+# OASIS INFOBYTE Web Development Internship Tasks
 
-1.Calculator: A simple web calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations with ease.
+Welcome to my repository! Here, you'll find a collection of web development tasks I completed during my internship at **OASIS INFOBYTE**. These projects showcase my skills in both front-end and back-end development. Each project is contained in its own folder, with detailed documentation and source code included. Feel free to explore, and your feedback is greatly appreciated!
 
-2.Tribute Page: Pay homage to a notable figure with this tribute page. HTML and CSS bring the story to life in an engaging way.
+## Projects
 
-3.To-Do Web App: Stay organized with this interactive to-do web app. Utilizing HTML, CSS, and JavaScript, it allows you to add, edit, and remove tasks dynamically.
+### 1. Calculator
+A simple and intuitive web calculator built using **HTML**, **CSS**, and **JavaScript**. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-4.Login Authentication: Enhance security with a login authentication system. Built with robust back-end technologies, it ensures secure access to authorized users.
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Features**: 
+  - Basic arithmetic operations
+  - Responsive design for different screen sizes
 
-Feel free to explore each project's dedicated folder for detailed documentation and source code. Your feedback is highly appreciated!
+### 2. Tribute Page
+This is a tribute page dedicated to a notable figure, created using **HTML** and **CSS**. The page tells a compelling story in a visually appealing way, bringing the figure's achievements and legacy to life.
+
+- **Tech Stack**: HTML, CSS
+- **Features**:
+  - Elegant layout
+  - Fully responsive design
+
+### 3. To-Do Web App
+Stay organized with this interactive to-do list web application. Built using **HTML**, **CSS**, and **JavaScript**, the app allows users to add, edit, and remove tasks dynamically, making task management easier.
+
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Features**:
+  - Add, edit, and delete tasks
+  - Real-time task updates
+  - Responsive design
+
+### 4. Login Authentication System
+A secure login authentication system that ensures only authorized users can access certain sections of a website. It uses a combination of front-end and back-end technologies to authenticate users securely.
+
+- **Tech Stack**: HTML, CSS, JavaScript, Back-end Technology (Node.js, PHP, or Python)
+- **Features**:
+  - User authentication and session management
+  - Secure password storage and validation
+  - Basic user roles and access control
+
+
+## Feedback
+Feel free to explore the projects and share your feedback. If you encounter any issues or have suggestions for improvement, don't hesitate to open an issue or contact me directly.
+
+---
+
+Thank you for visiting my repository!
