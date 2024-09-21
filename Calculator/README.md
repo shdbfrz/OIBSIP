@@ -13,3 +13,4 @@ This is a simple web calculator designed to perform basic mathematical operation
 
 The calculator includes a display screen that shows both the user's input and the result of the calculation. The display screen is styled for clarity and ease of use, ensuring that the numbers and operations are easily readable.
 
+![Calculator](https://github.com/user-attachments/assets/056a5154-44f1-4d4f-9fa0-68ce778c6cad)
