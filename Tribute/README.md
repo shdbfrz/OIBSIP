@@ -10,22 +10,16 @@ This project is a tribute page dedicated to Indian cricketer Virat Kohli. The we
 - **Career Statistics**: A table showcasing his domestic and international cricket career.
 - **Timeline**: Key milestones in Virat Kohli’s career, updated through 2024.
 - **Quotes Section**: Inspirational quotes by Virat Kohli.
-- **Footer**: A footer with creator's name and links (optional).
+- **Footer**: A footer with creator's name and links .
   
 ## Technologies Used
 - **HTML5**: Structure of the webpage.
 - **CSS3**: For styling the page.
 
-
-## Instructions
-1. Clone the repository: `git clone <repository-url>`
-2. Open the `index.html` file in a web browser.
-3. Explore the biography, statistics, timeline, and quotes sections.
-
 ## Credits
 - **Data Sources**: Wikipedia, ESPN Cricinfo.
 - **Images**: Public domain.
-- 
+  
   
 
 ![virat kohli](https://github.com/user-attachments/assets/8997eac8-bfe4-4df4-b1af-5aab5eab3646)
