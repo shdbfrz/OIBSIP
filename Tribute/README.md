@@ -25,6 +25,7 @@ This project is a tribute page dedicated to Indian cricketer Virat Kohli. The we
 ## Credits
 - **Data Sources**: Wikipedia, ESPN Cricinfo.
 - **Images**: Public domain.
-![VIrat Kohli]("C:\Users\shadab firoz\Pictures\Screenshots\Screenshot 2024-09-22 161710.png")
+- 
+![VIrat Kohli](Screenshot 2024-09-22 161710.png")
 
 
