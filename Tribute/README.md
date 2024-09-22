@@ -1,4 +1,4 @@
-# Virat Kohli Tribute Page
+# Tribute Page : Virat Kohli
 
 ## Project Overview
 
@@ -26,6 +26,11 @@ This project is a tribute page dedicated to Indian cricketer Virat Kohli. The we
 - **Data Sources**: Wikipedia, ESPN Cricinfo.
 - **Images**: Public domain.
 - 
-![VIrat Kohli](Screenshot 2024-09-22 161710.png")
+  
 
+![virat kohli](https://github.com/user-attachments/assets/8997eac8-bfe4-4df4-b1af-5aab5eab3646)
 
+![RCB](https://github.com/user-attachments/assets/a79a6d0d-b1e5-40ad-8feb-a9b35fc962b8)
+
+![overview](https://github.com/user-attachments/assets/426341d7-4dab-40a1-9719-b8ed65dee3d0)
+![records](https://github.com/user-attachments/assets/7cafcf53-ffea-4d3a-9c2b-2607f9cc84f8)
